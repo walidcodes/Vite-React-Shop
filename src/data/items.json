@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "Erindi", "price": 8225, "imgUrl": "/imgs/Erindi.jpg" },
+  { "id": 2, "name": "Nala", "price": 9050, "imgUrl": "/imgs/Nala.jpg" },
+  {
+    "id": 3,
+    "name": "Rasaputra",
+    "price": 9120,
+    "imgUrl": "/imgs/Rasaputra.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Moudira",
+    "price": 8910,
+    "imgUrl": "/imgs/Moudira.jpg"
+  }
+]
